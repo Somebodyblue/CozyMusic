@@ -1,0 +1,21 @@
+{
+  "name": "cozy-music",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GJ",
+  "license": "ISC",
+  "description": "A cozy music software",
+  "devDependencies": {
+    "electron": "^34.3.0",
+    "standard": "^17.1.2",
+    "typescript": "^5.8.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
